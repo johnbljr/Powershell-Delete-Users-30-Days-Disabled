@@ -3,7 +3,7 @@
 Author: John Leger
 Date: January 15, 2019
 Powershell Version Built/Tested on: 5.1
-Title: Delete Disable Users Older than 30 Days with No Logon
+Title: Delete Disabled Users Older than 30 Days with No Logon
 Website: https://github.com/johnbljr
 License: GNU General Public License v3.0
 ------------------------------------------------------------
